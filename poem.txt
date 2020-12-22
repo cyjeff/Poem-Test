@@ -9,12 +9,13 @@ How about I sing a song here?
 Hey hey you you 
 Caz you have a bad day
 
-I will now do two functions
+I will now do two functionss
 
 func1 () {
   return 1;
 }
 
 func2 () {
+  x = 1 + 1;
   return 2;
 }
