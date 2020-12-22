@@ -12,6 +12,7 @@ Caz you have a bad day
 I will now do two functions
 
 func1 () {
+  y = 11;
   return 1;
 }
 
