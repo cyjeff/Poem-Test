@@ -17,5 +17,6 @@ func1 () {
 }
 
 func2 () {
+  x = 1 + 1;
   return 2;
 }
