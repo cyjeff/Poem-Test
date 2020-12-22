@@ -8,3 +8,13 @@ How about I sing a song here?
 
 Hey hey you you 
 Caz you have a bad day
+
+I will now do two functions
+
+func1 () {
+  //TODO
+}
+
+func2 () {
+  //TODO
+}
