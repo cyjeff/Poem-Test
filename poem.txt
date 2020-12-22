@@ -16,5 +16,5 @@ func1 () {
 }
 
 func2 () {
-  //TODO
+  return 2;
 }
